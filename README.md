@@ -50,6 +50,4 @@ The dataset contains 1338 records with the following attributes:
   - Root Mean Squared Error (RMSE)
   - R² Score
 
----
 
-## 📂 Project Structure
